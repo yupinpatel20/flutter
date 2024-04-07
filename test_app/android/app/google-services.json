@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "959557761104",
+    "project_id": "fooddoner-8b2bd",
+    "storage_bucket": "fooddoner-8b2bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959557761104:android:72355214cf50a4688f3955",
+        "android_client_info": {
+          "package_name": "com.example.test_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCkCKLD22ht6WeFy2byPlGxNIZ7n4NUtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
